@@ -1,3 +1,16 @@
 body {
     padding-top: 5rem;
 }
+
+.labelgrp{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+.pass {
+    background-color: #86dc3d;
+    padding: .5em;
+    margin: .5em;
+    color: white;
+}
